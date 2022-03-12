@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ArtVideos",
+  "name": "Art Video for fun and learning",
   "icons": [
     {
       "src": "icon-120.png",
